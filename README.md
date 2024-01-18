@@ -1,4 +1,4 @@
-<h2 align="center">Buğra here! Working on stuff.. </h2>
+<h2 align="center"> Always working on some stuff... </h2>
 
 <p><img align="left" width=400 src="https://github-readme-stats.vercel.app/api/top-langs?username=schismic&show_icons=true&theme=dark&locale=en&layout=compact" alt="schismic" /></p>
 
