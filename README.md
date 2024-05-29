@@ -1,4 +1,4 @@
-$${\color{#BDBDBD}constanly \space working \space on \space passion \space projects}$$
+<h2>$${\color{#BDBDBD}constanly \space working \space on \space passion \space projects}$$</h2>
 
 <hr/>
 
