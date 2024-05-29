@@ -1,4 +1,4 @@
-$${\color{#70A4FC}never \space a \space moment \space where \space I'm \space not \space working \space on \space something}$$
+$${\color{#70A4FC}constanly \space working \space on \space passion \space projects}$$
 
 <hr/>
 
